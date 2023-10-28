@@ -9,7 +9,7 @@ const Post = new mongoose.Schema({
         type: String,
         required: true
     },
-    prompt: {
+    photo: {
         type: String,
         required: true
     }
